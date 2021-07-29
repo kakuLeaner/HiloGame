@@ -1,8 +1,9 @@
 # HiLo Game
 # Patrick Kakungulu
 # November 10, 2020
-# HiLoGame as specified by Lab 7 Exercise
+# HiLoGame 
 # introduce game 
+print('You will give the program the max number then you will guess the number')
 print('*'*50 + '\n')
 print('Give a maximum number then guess my number')
 print('*'*50 + '\n')
