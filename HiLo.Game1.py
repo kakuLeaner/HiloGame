@@ -1,5 +1,5 @@
-# HiLo Game
-# Patrick Kakungulu
+
+# Kakungulu, P
 # November 10, 2020
 # HiLoGame 
 # introduce game 
