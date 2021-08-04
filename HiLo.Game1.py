@@ -1,6 +1,5 @@
 
 # Kakungulu, P
-# November 10, 2020
 # HiLoGame 
 # introduce game 
 print('You will give the program the max number then you will guess the number')
